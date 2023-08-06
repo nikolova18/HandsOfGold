@@ -27,7 +27,7 @@ namespace HandsOfGold
         public void ConfigureServices(IServiceCollection services)
         {
             services
-                .AddDbContext<ApplicationDbContext>(options => options
+                .AddDbContext<AdSiteDbContext>(options => options
                     .UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
 
@@ -40,7 +40,7 @@ namespace HandsOfGold
                     options.Password.RequireUppercase = false;
 
                 })
-                .AddEntityFrameworkStores<ApplicationDbContext>();
+                .AddEntityFrameworkStores<AdSiteDbContext>();
 
             services
                 .AddControllersWithViews();

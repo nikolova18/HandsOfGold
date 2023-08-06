@@ -1,0 +1,9 @@
+C:\Users\Nani\Documents\GitHub\HandsOfGold\obj\Debug\netcoreapp3.1\HandsOfGold.csproj.AssemblyReference.cache
+C:\Users\Nani\Documents\GitHub\HandsOfGold\obj\Debug\netcoreapp3.1\HandsOfGold.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nani\Documents\GitHub\HandsOfGold\obj\Debug\netcoreapp3.1\HandsOfGold.AssemblyInfoInputs.cache
+C:\Users\Nani\Documents\GitHub\HandsOfGold\obj\Debug\netcoreapp3.1\HandsOfGold.AssemblyInfo.cs
+C:\Users\Nani\Documents\GitHub\HandsOfGold\obj\Debug\netcoreapp3.1\HandsOfGold.csproj.CoreCompileInputs.cache
+C:\Users\Nani\Documents\GitHub\HandsOfGold\obj\Debug\netcoreapp3.1\HandsOfGold.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nani\Documents\GitHub\HandsOfGold\obj\Debug\netcoreapp3.1\HandsOfGold.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nani\Documents\GitHub\HandsOfGold\obj\Debug\netcoreapp3.1\HandsOfGold.RazorAssemblyInfo.cache
+C:\Users\Nani\Documents\GitHub\HandsOfGold\obj\Debug\netcoreapp3.1\HandsOfGold.RazorAssemblyInfo.cs

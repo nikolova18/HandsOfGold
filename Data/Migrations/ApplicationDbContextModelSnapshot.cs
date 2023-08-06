@@ -8,7 +8,7 @@ namespace HandsOfGold.Data.Migrations
     using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
     using System;
 
-    [DbContext(typeof(ApplicationDbContext))]
+    [DbContext(typeof(AdSiteDbContext))]
     partial class ApplicationDbContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
